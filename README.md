@@ -1,4 +1,4 @@
 # composertest
 composer test
 
-branch: first
+branch: second
