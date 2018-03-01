@@ -1,0 +1,9 @@
+{
+    "name": "ikadar/composertest",
+    "version": "0.1.0",
+    "source": {
+        "url": "https://smarty-php.googlecode.com/svn/",
+        "type": "svn",
+        "reference": "tags/Smarty_3_1_7/distribution/"
+    }
+}
